@@ -44,7 +44,7 @@
           <mxGeometry y="60" width="181" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lsdyHEgO3eYV5bxi-3uH-16" value="&lt;span&gt;Bands&lt;/span&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="655" y="25" width="181" height="180" as="geometry" />
+          <mxGeometry x="626" y="62" width="181" height="180" as="geometry" />
         </mxCell>
         <mxCell id="lsdyHEgO3eYV5bxi-3uH-17" value="ID [int]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1" vertex="1" parent="lsdyHEgO3eYV5bxi-3uH-16">
           <mxGeometry y="30" width="181" height="30" as="geometry" />
